@@ -3,5 +3,6 @@ public class niti {
         System.out.println("Arianit Gashi");
 
         System.out.println("Hello");
+
     }
 }
