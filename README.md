@@ -8,4 +8,5 @@ zbaton një kombinim të zëvendësimit dhe permutacionit të të dhënave hyrë
 daljes.
 
 Numri i grupit:7
+
 Anëtarët e grupit:Ardit Gjyrevci,Arianit Gashi,Arijesa Muja
