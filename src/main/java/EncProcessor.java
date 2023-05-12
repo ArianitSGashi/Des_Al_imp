@@ -7,8 +7,7 @@ import java.util.Random;
 import javafx.scene.control.Label;
 
 public class EncProcessor {
-
-
+//Arianit
     public static String String2Hex(String str) {
         StringBuffer sb = new StringBuffer();
         //Converting string to character array
