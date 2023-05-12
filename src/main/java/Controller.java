@@ -106,6 +106,7 @@ public class Controller {
         this.txtPlaintext.setText("");
         this.txtKey.setText("");
         this.lblKey.setText("");
+        //
     }
 
 }
